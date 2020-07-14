@@ -1,0 +1,7 @@
+apiVersion: loki.grafana.com/v1alpha1
+kind: Loki
+metadata:
+  name: example-loki
+spec:
+  # Add fields here
+  size: 3
